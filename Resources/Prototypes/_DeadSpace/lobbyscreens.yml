@@ -138,55 +138,55 @@
   
 - type: lobbyBackground
   id: DonerCarps
-  background: /Textures/LobbyScreens/Fobos/doner_carps.webp
+  background: /Textures/LobbyScreens/Fobos/Doner_Carps.webp
 
 - type: lobbyBackground
   id: DonerDarkRain
-  background: /Textures/LobbyScreens/Fobos/doner_darkRain.webp
+  background: /Textures/LobbyScreens/Fobos/Doner_DarkRain.webp
 
 - type: lobbyBackground
   id: DonerEllis
-  background: /Textures/LobbyScreens/Fobos/doner_ellis.webp
+  background: /Textures/LobbyScreens/Fobos/Doner_ellis.webp
   
 - type: lobbyBackground
   id: DonerGirlfriends
-  background: /Textures/LobbyScreens/Fobos/doner_girlfriends.webp
+  background: /Textures/LobbyScreens/Fobos/Doner_Girlfriends.webp
   
 - type: lobbyBackground
   id: DonerHopFrontier
-  background: /Textures/LobbyScreens/Fobos/doner_hopfrontier.webp
+  background: /Textures/LobbyScreens/Fobos/Doner_HopFrontier.webp
   
 - type: lobbyBackground
   id: DonerParamedic
-  background: /Textures/LobbyScreens/Fobos/doner_paramedic.webp
+  background: /Textures/LobbyScreens/Fobos/Doner_Paramedic.webp
   
 - type: lobbyBackground
   id: DonerPsyhologist
-  background: /Textures/LobbyScreens/Fobos/doner_psyhologist.webp
+  background: /Textures/LobbyScreens/Fobos/Doner_Psyhologist.webp
   
 - type: lobbyBackground
   id: DonerRatcatcher
-  background: /Textures/LobbyScreens/Fobos/doner_ratcatcher.webp
+  background: /Textures/LobbyScreens/Fobos/Doner_Ratcatcher.webp
   
 - type: lobbyBackground
   id: DonerRocket
-  background: /Textures/LobbyScreens/Fobos/doner_rocket.webp
+  background: /Textures/LobbyScreens/Fobos/Doner_Rocket.webp
   
 - type: lobbyBackground
   id: DonerScience
-  background: /Textures/LobbyScreens/Fobos/doner_science.webp
+  background: /Textures/LobbyScreens/Fobos/Doner_Science.webp
   
 - type: lobbyBackground
   id: DonerSisters
-  background: /Textures/LobbyScreens/Fobos/doner_sisters.webp
+  background: /Textures/LobbyScreens/Fobos/Doner_Sisters.webp
   
 - type: lobbyBackground
   id: DonerSmokeBreak
-  background: /Textures/LobbyScreens/Fobos/doner_smokebreak.webp
+  background: /Textures/LobbyScreens/Fobos/Doner_SmokeBreak.webp
   
 - type: lobbyBackground
   id: DonerViolence
-  background: /Textures/LobbyScreens/Fobos/doner_violence.webp
+  background: /Textures/LobbyScreens/Fobos/Doner_Violence.webp
   
 # Soyuz
 
